@@ -1,7 +1,7 @@
 package com.smk;
 
-import com.smk.view.CreateBooking;
-import com.smk.view.SearchBooking;
+import com.smk.model.CreateBooking;
+import com.smk.model.SearchBooking;
 import com.vaadin.flow.component.applayout.AppLayout;
 import com.vaadin.flow.component.applayout.DrawerToggle;
 import com.vaadin.flow.component.html.H1;

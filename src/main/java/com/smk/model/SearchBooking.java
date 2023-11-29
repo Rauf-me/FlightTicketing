@@ -1,4 +1,4 @@
-package com.smk.view;
+package com.smk.model;
 
 import com.smk.MainView;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
